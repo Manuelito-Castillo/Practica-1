@@ -1,0 +1,10 @@
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\bin\Debug\VariablesManuel.exe.config
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\bin\Debug\VariablesManuel.exe
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\bin\Debug\VariablesManuel.pdb
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.csproj.AssemblyReference.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.Form1.resources
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.Properties.Resources.resources
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.csproj.GenerateResource.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.csproj.CoreCompileInputs.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.exe
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\VariablesManuel\VariablesManuel\obj\Debug\VariablesManuel.pdb
