@@ -1,0 +1,10 @@
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\bin\Debug\proyectoEVALUACION1Manuel.exe.config
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\bin\Debug\proyectoEVALUACION1Manuel.exe
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\bin\Debug\proyectoEVALUACION1Manuel.pdb
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.csproj.AssemblyReference.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.Form1.resources
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.Properties.Resources.resources
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.csproj.GenerateResource.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.csproj.CoreCompileInputs.cache
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.exe
+C:\Users\tequi\OneDrive\Escritorio\Práctica 6\proyectoEVALUACION1Manuel\proyectoEVALUACION1Manuel\obj\Debug\proyectoEVALUACION1Manuel.pdb
